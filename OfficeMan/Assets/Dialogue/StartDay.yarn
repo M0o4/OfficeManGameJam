@@ -1,0 +1,10 @@
+title: StartDay
+tags: 
+colorID: 0
+position: 705,456
+---
+<<PlayerMovement stop>>
+I need to finish my work before the end of the working day(18:00)
+<<IdleState 0>>
+<<PlayerMovement move>>
+===

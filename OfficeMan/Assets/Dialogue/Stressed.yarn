@@ -1,0 +1,11 @@
+title: Stressed
+tags: 
+colorID: 0
+position: 704,376
+---
+<<PlayerMovement stop>>
+<<StopTimeState 0>>
+A little more and I'll burn out, I need a rest.
+<<IdleState 0>>
+<<PlayerMovement move>>
+===

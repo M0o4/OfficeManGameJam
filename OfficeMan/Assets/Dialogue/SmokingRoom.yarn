@@ -1,0 +1,14 @@
+title: SmokingRoom
+tags: 
+colorID: 0
+position: 898,309
+---
+<<if visited("SmokingRoom") is false>>
+    <<StopTimeState 0>>
+    <<PlayerMovement stop>>
+    Smoking room.
+    Sometimes I come here just to not work.
+    <<PlayerMovement move>>
+    <<RestState 0>>
+<<endif>>
+===

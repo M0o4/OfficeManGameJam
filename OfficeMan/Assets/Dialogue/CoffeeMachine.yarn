@@ -1,0 +1,15 @@
+title: CoffeeMachine
+tags: 
+colorID: 0
+position: 758,538
+---
+<<if visited("CofeeMachine") is false>>
+    <<StopTimeState 0>>
+    <<PlayerMovement stop>>
+    It's the only good thing about this place.
+    Coffee machine.
+    It helps me to recharge my energy a little
+    <<PlayerMovement move>>
+    <<DrinkCoffeeState 0>>
+<<endif>>
+===

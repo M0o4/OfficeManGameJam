@@ -1,0 +1,11 @@
+title: NoEnergy
+tags: 
+colorID: 0
+position: 754,506
+---
+<<PlayerMovement stop>>
+<<StopTimeState 0>>
+I'm tired, a little more and I'll fall asleep at my workplace.
+<<IdleState 0>>
+<<PlayerMovement move>>
+===

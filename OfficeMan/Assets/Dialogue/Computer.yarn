@@ -1,0 +1,17 @@
+title: Computer
+tags: 
+colorID: 0
+position: 831,575
+---
+<<StopTimeState 0>>
+    <<PlayerMovement stop>>
+    This is my workplace.
+    I hate my job, but I have no choice.
+    <<wait 1>>
+    I need money to buy an anime action figure.
+    <<wait 1>>
+    My job is to press the buttons that appear on the screen, but unfortunately it is not always possible to distinguish them.
+    Because of this I am nervous.
+    Come on then, get to work.
+    <<WorkState 0>>
+===

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 156c85af349825e48b2bbc323eaa6638
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: ru-RU
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: "Error on line 13 at position 28:\nmismatched input ']'
+    expecting FORMAT_FUNCTION_EXPRESSION_START\r\n    Because of this I am [b][color=#ff0000]nervous[/color][/b].\r\n                          
+    ^"
+  baseLanguage: {instanceID: 0}
+  localizations: []
