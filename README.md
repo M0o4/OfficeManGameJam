@@ -11,4 +11,4 @@ Game is built in C# with Unity 2020.3.16f1 (Personal).
 # 🐬 Game Screenshots 🦄
 <img src="https://github.com/M0o4/OfficeManeGameJam/blob/main/Images/Screenshot_1.jpg" style="width: 100%"><img src="https://github.com/M0o4/OfficeManeGameJam/blob/main/Images/Screenshot_2.jpg" style="width: 100%"><img src="https://github.com/M0o4/OfficeManeGameJam/blob/main/Images/Screenshot_3.jpg" style="width: 100%">
 # 🖥️  Install it on your PC
-[RAR](https://github.com/M0o4/OfficeManeGameJam/releases)
+[Releases](https://github.com/M0o4/OfficeManeGameJam/releases)
