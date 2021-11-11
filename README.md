@@ -1,4 +1,4 @@
-# OfficeMane🧑‍💼
+# OfficeMan🧑‍💼
 Windows game created by @M0o4 for game jam "[lame jam 9](https://itch.io/jam/lame-jam-9)"
 # 🎮 Game engine
 Game is built in C# with Unity 2020.3.16f1 (Personal).
